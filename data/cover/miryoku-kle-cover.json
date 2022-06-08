@@ -49,11 +49,13 @@
     "P\nF9\n(\n9\nBase",
     {
       "x": 4,
-      "t": "#000000\n#ff00ff\n#ffff00\n#00ffff\n#ffffff"
+      "t": "#000000\n#ff00ff\n#ffff00\n#00ffff\n#ffffff",
+      "f": 3
     },
     "L\nM\nPaste\nPaste\nBase",
     {
-      "x": 1
+      "x": 1,
+      "f": 3
     },
     "Y\nS\nCut\nCut\nTap"
   ],
@@ -106,39 +108,45 @@
     {
       "y": -0.5,
       "x": 2,
-      "t": "#000000\n#ff0000\n#00ff00\n#0000ff",
+      "t": "#000000\n#ff0000\n#00ff00\n#0000ff\n#ffffff",
       "f": 3
     },
-    "S\nF5\n%\n5\nCtrl",
+    "S\nF5\n%\n5\nOpp",
     {
       "x": 6,
-      "t": "#000000\n#ff00ff\n#ffff00\n#00ffff",
-      "f2": 0
+      "t": "#000000\n#ff00ff\n#ffff00\n#00ffff\n#ffffff",
+      "f": 3
     },
-    "E\n🔉\n⬇\n▼\nCtrl"
+    "E\n🔉\n⬇\n▼\nOpp"
   ],
   [
     {
       "y": -0.8700000000000001,
       "x": 1,
-      "t": "#000000\n#ff0000\n#00ff00\n#0000ff"
+      "t": "#000000\n#ff0000\n#00ff00\n#0000ff",
+      "f": 3
     },
-    "R\nF4\n$\n4\nAlt",
+    "R\nF4\n$\n4",
     {
       "x": 1,
+      "t": "#000000\n#ff0000\n#00ff00\n#0000ff\n#ffffff",
+      "f": 3,
       "n": true
     },
-    "T\nF6\n^\n6\nShift",
+    "T\nF6\n^\n6\nCur",
     {
       "x": 4,
-      "t": "#000000\n#ff00ff\n#ffff00\n#00ffff",
+      "t": "#000000\n#ff00ff\n#ffff00\n#00ffff\n#ffffff",
+      "f": 3,
       "n": true
     },
-    "N\n⏮\n⬅\n◀\nShift",
+    "N\n⏮\n⬅\n◀\nCur",
     {
-      "x": 1
+      "x": 1,
+      "t": "#000000\n#ff00ff\n#ffff00\n#00ffff",
+      "f": 3
     },
-    "I\n🔊\n⬆\n▲\nAlt"
+    "I\n🔊\n⬆\n▲"
   ],
   [
     {
@@ -173,32 +181,27 @@
       "t": "#000000\n#ff0000\n#00ff00\n#0000ff",
       "f": 3
     },
-    "A\nF11\n:\n;\nSuper",
+    "A\nF11\n:\n;",
     {
       "x": 10,
       "t": "#000000\n#ff00ff\n#ffff00\n#00ffff",
-      "f2": 0
+      "f": 3
     },
-    "O\n⏭\n➡\n▶\nSuper"
+    "O\n⏭\n➡\n▶"
   ],
   [
     {
       "y": -0.5,
       "x": 2,
-      "t": "#000000\n#ff0000\n#00ff00\n#0000ff\n#ffffff"
+      "t": "#000000\n#ff0000\n#00ff00\n#0000ff",
+      "f": 3
     },
-    "C\nF2\n@\n2\nOpp",
+    "C\nF2\n@\n2\nAlt",
     {
       "x": 6,
-      "t": "#000000\n#ff00ff\n#ffff00\n#00ffff\n#ffffff",
-      "fa": [
-        0,
-        0,
-        0,
-        2
-      ]
+      "t": "#000000\n#ff00ff\n#ffff00\n#00ffff"
     },
-    ",\n1\n⇩\nPage Down\nOpp"
+    ",\n1\n⇩\nPage Down\nAlt"
   ],
   [
     {
@@ -207,23 +210,23 @@
       "t": "#000000\n#ff0000\n#00ff00\n#0000ff",
       "f": 3
     },
-    "X\nF1\n!\n1",
+    "X\nF1\n!\n1\nSuper",
     {
       "x": 1,
-      "t": "#000000\n#ff0000\n#00ff00\n#0000ff\n#ffffff",
       "f": 3
     },
-    "D\nF3\n#\n3\nCur",
+    "D\nF3\n#\n3\nCtrl",
     {
       "x": 4,
-      "t": "#000000\n#ff00ff\n#ffff00\n#00ffff\n#ffffff"
+      "t": "#000000\n#ff00ff\n#ffff00\n#00ffff",
+      "f": 3
     },
-    "H\n0\n⇦\nHome\nCur",
+    "H\n0\n⇦\nHome\nCtrl",
     {
       "x": 1,
-      "t": "#000000\n#ff00ff\n#ffff00\n#00ffff"
+      "f": 3
     },
-    ".\n2\n⇧\nPage Up"
+    ".\n2\n⇧\nPage Up\nSuper"
   ],
   [
     {
@@ -238,7 +241,7 @@
         3
       ]
     },
-    "V\nPause Break\n|\n\\",
+    "V\nPause Break\n|\n\\\nAltGr",
     {
       "x": 2,
       "t": "#000000\n#ff00ff\n\n#00ffff",
@@ -250,20 +253,21 @@
         2
       ]
     },
-    "K\nO\n\nInsert"
+    "K\nO\n\nInsert\nAltGr"
   ],
   [
     {
       "y": -0.75,
-      "t": "#000000\n#ff0000\n#00ff00\n#0000ff\n#C0C0C0",
+      "t": "#000000\n#ff0000\n#00ff00\n#0000ff",
       "f": 3
     },
-    "Z\nF10\n~\n`\nButton",
+    "Z\nF10\n~\n`\nShift",
     {
       "x": 10,
-      "t": "#000000\n#ff00ff\n#ffff00\n#00ffff\n#C0C0C0"
+      "t": "#000000\n#ff00ff\n#ffff00\n#00ffff",
+      "f": 3
     },
-    "/\n3\n⇨\nEnd\nButton"
+    "/\n3\n⇨\nEnd\nShift"
   ],
   [
     {
@@ -314,7 +318,7 @@
       "a": 4,
       "n": true
     },
-    "Spc\nSpc\n)\n0\nNav"
+    "⌫\n⌫\n)\n0\nNav"
   ],
   [
     {
@@ -343,6 +347,6 @@
       "t": "#000000\n#ff00ff\n#ffff00\n#00ffff\n#0000ff",
       "n": true
     },
-    "⌫\n⏯\nL\n⌫\nNum"
+    "Spc\n⏯\nL\nSpc\nNum"
   ]
 ]
